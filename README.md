@@ -1,7 +1,7 @@
 # loadbalancer-implementation
 
 This is simple loadbalancer implementation using metalLB.
-We are loadbalancing NGINX software as a 
+We are loadbalancing NGINX software in this example
 
 ## Tools
 
