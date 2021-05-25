@@ -44,7 +44,7 @@ kubectl get pods -n metallb-system --watch
 
 
 
-- When all the pods are up and running, create a pool/range of IPs that the metalLB loadbalancer will pick from to assign the services
+- When all the pods are up and running, create a pool/range of IPs that the metalLB loadbalancer will pick from to assign the services.
   If using KIND get KIND network in docker: 
 ```
 docker network inspect -f '{{.IPAM.Config}}' kind
