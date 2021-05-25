@@ -5,7 +5,7 @@ We are loadbalancing NGINX software as a
 
 ## Tools
 
-- KIND (Kubernetes in Docker): tool for running Kubernetes clusters using docker container. [set KIND on your local machine]()
+- KIND (Kubernetes in Docker): tool for running Kubernetes clusters using docker container. [set KIND on your local machine](https://www.notion.so/Create-Kubernetes-cluster-with-KinD-2f20ca99835a4df6bc223ec62c05b5e7)
 
 ## How to run this 
 
