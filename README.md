@@ -1,5 +1,8 @@
 # loadbalancer-implementation in kubernetes cluster
 
+![image](https://user-images.githubusercontent.com/30593186/121484497-90390000-c9cf-11eb-8347-04a6d09d8021.png)
+
+
 This is simple loadbalancer implementation using metalLB.
 We are loadbalancing NGINX software in this example
 
